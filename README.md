@@ -6,7 +6,7 @@ Analysis of 1,000 supermarket transactions across three branches — from raw da
 
 ## Dashboard
 
-<img width="1000" alt="dashboard screenshot" src="YOUR_SCREENSHOT_LINK" />
+<img width="1000" alt="dashboard screenshot" src="C:\Users\PC\Pictures\Screenshots" />
 
 ## Pipeline
 
