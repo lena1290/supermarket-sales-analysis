@@ -5,7 +5,7 @@ Analysis of 1,000 supermarket transactions across three branches — from raw da
 **Tools:** Excel (Power Query, PivotTables) · Tableau
 
 ## Dashboard
-<img width="1000" alt="dashboard screenshot" src="<img width="998" height="797" alt="Dashboard Screenshot (2)" src="https://github.com/user-attachments/assets/f3624503-a537-4b13-bb03-923eff17793e" />" />
+<img width="998" height="797" alt="Dashboard Screenshot (2)" src="https://github.com/user-attachments/assets/f3624503-a537-4b13-bb03-923eff17793e" />" />
 
 
 
